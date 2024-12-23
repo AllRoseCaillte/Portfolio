@@ -1,0 +1,44 @@
+/* STEM */
+@font-face {
+  font-family: 'Stem';
+  src: url(./Stem/Stem-Bold.ttf);
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: 'Stem';
+  src: url(./Stem/Stem-Medium.ttf);
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: 'Stem';
+  src: url(./Stem/Stem-Regular.ttf);
+  font-weight: normal;
+}
+
+
+@font-face {
+  font-family: 'Stem';
+  src: url(./Stem/Stem-SemiLight.ttf);
+  font-weight: 300;
+}
+/* Gilroy */
+
+@font-face {
+  font-family: 'Gilroy';
+  src: url(./Gilroy/Gilroy-Bold.ttf);
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: 'Gilroy';
+  src: url(./Gilroy/Gilroy-Medium.ttf);
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: 'Gilroy';
+  src: url(./Gilroy/Gilroy-SemiBold.ttf);
+  font-weight: 600;
+}
